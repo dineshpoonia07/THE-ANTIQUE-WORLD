@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    background-color: black;
+}
+.navbar:hover{
+    background-color: green;
+}
+
+.navbar .circle{
+    margin-top: 200px;
+    margin-left: 700px;
+    color: green;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+
+h1{
+    color: green;
+    font-size: 80px;
+}
+h1:hover{
+    background-color: black;
+}

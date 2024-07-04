@@ -1,0 +1,1 @@
+alert("GIFT AALO BUTTON CLICK NA KRI ");

@@ -1,0 +1,17 @@
+h1{
+    font-size: 100px;
+    color: green;
+}
+h1:hover{
+    border: 2px solid gold;
+    background-color: black;
+}
+img{
+    height: 50vh;
+    width: 30vw;
+}
+img:hover{
+    border: 2px solid gold;
+    background-color: black;
+}
+
